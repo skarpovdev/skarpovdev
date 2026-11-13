@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/skarpovdev/skarpovdev/4fc5ace4fa71059b83a6e9a0a870212c7dbb6fb6/assets/banner.svg" alt="Sergey Karpov — Test Automation · JetBrains · Amsterdam. Testing · Tools · Rhythm." width="100%">
+  <img src="https://raw.githubusercontent.com/skarpovdev/skarpovdev/b44597cec0c6a62ebbe3b1b103fbfca92181fb5a/assets/banner.svg" alt="Sergey Karpov — Test Automation · JetBrains · Amsterdam. Testing · Tools · Drumming." width="100%">
 </p>
 
 I work on **testing at JetBrains**, with a focus on **automated testing**. Based in **Amsterdam**. Author of **Rudimate** and **Back to Bug**.
