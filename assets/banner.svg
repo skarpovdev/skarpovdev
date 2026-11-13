@@ -5,10 +5,10 @@
   <circle cx="1110" cy="180" r="100" stroke="#263640"/>
   <path d="M860 0V360M980 0V360M1100 0V360M1220 0V360M820 60H1280M820 180H1280M820 300H1280" stroke="#1C2A33"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
-    <text x="64" y="71" fill="#A9BCC7" font-size="18" font-weight="600" letter-spacing="3">SERGEY KARPOV</text>
-    <text x="60" y="154" fill="#F5F7F9" font-size="66" font-weight="750" letter-spacing="-2">Testing. Tools.</text>
-    <text x="60" y="228" fill="#EFD36C" font-size="66" font-weight="750" letter-spacing="-2">Rhythm.</text>
-    <text x="64" y="280" fill="#A9BCC7" font-size="21">Automated testing at JetBrains · Amsterdam</text>
+    <text x="60" y="136" fill="#F5F7F9" font-size="66" font-weight="750" letter-spacing="-2">Sergey Karpov</text>
+    <text x="64" y="202" fill="#EFD36C" font-size="36" font-weight="600">Test Automation</text>
+    <text x="64" y="251" fill="#A9BCC7" font-size="21">JetBrains · Amsterdam</text>
+    <text x="64" y="327" fill="#A9BCC7" font-size="16" font-weight="600" letter-spacing="2">TESTING · TOOLS · RHYTHM</text>
   </g>
   <rect x="881" y="77" width="264" height="206" rx="18" fill="#15242D" stroke="#36505F"/>
   <circle cx="904" cy="100" r="4" fill="#EFD36C"/>
