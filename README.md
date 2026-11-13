@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/profile.svg" alt="Sergey Karpov — Test automation at JetBrains, Amsterdam" width="100%">
+  <img src="assets/banner.svg" alt="Sergey Karpov — Testing. Tools. Rhythm." width="100%">
 </p>
 
 I work on **testing at JetBrains**, with a focus on **automated testing**. Based in **Amsterdam**. Author of **Rudimate** and **Back to Bug**.
