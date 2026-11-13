@@ -2,9 +2,9 @@
   <img src="assets/header.svg" alt="Sergey Karpov — Code. Tools. Rhythm." width="100%">
 </p>
 
-Developer at **JetBrains**, based in **Amsterdam**. I build apps for drum practice and better bug reports, and contribute to the **Kotlin SDK for Model Context Protocol**.
+Developer at **JetBrains**, based in **Amsterdam**. Author of **Rudimate** and **Back to Bug**, and contributor to the **Kotlin SDK for Model Context Protocol**.
 
-### Apps I build
+### My apps
 
 <table>
   <tr>
