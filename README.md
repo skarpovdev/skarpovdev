@@ -1,8 +1,8 @@
 <p>
-  <img src="assets/header.svg" alt="Sergey Karpov — Code. Tools. Rhythm." width="100%">
+  <img src="assets/header.svg" alt="Sergey Karpov — Testing. Tools. Rhythm." width="100%">
 </p>
 
-Developer at **JetBrains**, based in **Amsterdam**. Author of **Rudimate** and **Back to Bug**, and contributor to the **Kotlin SDK for Model Context Protocol**.
+I work on **testing at JetBrains**, with a focus on **automated testing**. Based in **Amsterdam**. Author of **Rudimate** and **Back to Bug**.
 
 ### My apps
 
